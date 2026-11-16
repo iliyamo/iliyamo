@@ -7,13 +7,6 @@
 
 ---
 
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyamo)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iliyam_o)
-
----
-
 ## 🧩 Projects
 
 ### 🏭 Garmakar Shahr — Company Website
@@ -26,12 +19,22 @@ Website for **Dr. Mehdi Khatibi**, an engineer with a doctorate.
 
 [![Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://project.velqon.ir/)
 
-### 🃏 Card Khaneh — Android App & PWA
-A mobile card-management app with Android and Progressive Web App versions.
+### 💳 Card Khaneh — Bank Card Management
+An Android app and PWA for managing and organizing bank cards.
 
 [![Web PWA](https://img.shields.io/badge/Web_PWA-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://card.velqon.ir/)
 [![Myket](https://img.shields.io/badge/Myket-00A86B?style=for-the-badge)](https://myket.ir/app/ir.iliyamo.cardkhaneh)
 [![Cafe Bazaar](https://img.shields.io/badge/Cafe_Bazaar-00A86B?style=for-the-badge)](https://cafebazaar.ir/app/ir.iliyamo.cardkhaneh)
+
+### 📚 Library Management System
+A Go-based library backend with JWT authentication, book and author management, and asynchronous borrowing workflows using RabbitMQ. MySQL and Redis support data storage, caching, and rate limiting.
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyamo/Library-Management-System)
+
+### 🎟️ Cinema Seat Reservation
+A Go REST API for managing cinemas, halls, screenings, seat availability, temporary seat holds, and reservations. Includes customer/owner roles, JWT authentication, and transactional seat locking.
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyamo/cinema-seat-reservation)
 
 ---
 
@@ -68,7 +71,6 @@ A mobile card-management app with Android and Progressive Web App versions.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C5CE7?style=for-the-badge)
-![Remotion](https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white)
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
