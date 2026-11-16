@@ -70,16 +70,8 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 ## 🤖 AI & Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-<img src="https://web-assets.nousresearch.com/marketing/d658d7d78f65a8885b382f75fa0f44bc26e33c45/assets/hermes-landing/teams/hermes-wing.svg" alt="Hermes Agent" width="28" /> ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-0000F2?style=for-the-badge)
+<img src="https://hermes-agent.nousresearch.com/favicon.ico" alt="Hermes Agent" width="20" height="20" /> **Hermes Agent**
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=iliyamo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iliyamo&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iliyamo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -87,6 +79,3 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=iliyamo&icon=2&color=13)](https://visitcount.itsvg.in)
