@@ -26,12 +26,12 @@ An Android app and PWA for managing and organizing bank cards.
 [![Myket](https://img.shields.io/badge/Myket-00A86B?style=for-the-badge)](https://myket.ir/app/ir.iliyamo.cardkhaneh)
 [![Cafe Bazaar](https://img.shields.io/badge/Cafe_Bazaar-00A86B?style=for-the-badge)](https://cafebazaar.ir/app/ir.iliyamo.cardkhaneh)
 
-### 📚 Library Management System
+### 📚 [Library Management System](https://github.com/iliyamo/Library-Management-System)
 A Go-based library backend with JWT authentication, book and author management, and asynchronous borrowing workflows using RabbitMQ. MySQL and Redis support data storage, caching, and rate limiting.
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyamo/Library-Management-System)
 
-### 🎟️ Cinema Seat Reservation
+### 🎟️ [Cinema Seat Reservation](https://github.com/iliyamo/cinema-seat-reservation)
 A Go REST API for managing cinemas, halls, screenings, seat availability, temporary seat holds, and reservations. Includes customer/owner roles, JWT authentication, and transactional seat locking.
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iliyamo/cinema-seat-reservation)
@@ -58,7 +58,7 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1.5%2F5-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1.5%2F5-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 📊 Office & Design
+### 📊 Microsoft Office & Design
 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-2.5%2F5-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-2.5%2F5-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -70,7 +70,7 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 ## 🤖 AI & Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C5CE7?style=for-the-badge)
+<img src="https://web-assets.nousresearch.com/marketing/d658d7d78f65a8885b382f75fa0f44bc26e33c45/assets/hermes-landing/teams/hermes-wing.svg" alt="Hermes Agent" width="28" /> ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-0000F2?style=for-the-badge)
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
