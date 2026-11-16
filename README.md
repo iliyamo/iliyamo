@@ -70,7 +70,7 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 ## 🤖 AI & Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-<img src="https://hermes-agent.nousresearch.com/favicon.ico" alt="Hermes Agent" width="20" height="20" /> **Hermes Agent**
+<a href="https://hermes-agent.nousresearch.com/"><img src="https://hermes-agent.nousresearch.com/favicon.ico" alt="Hermes Agent" width="20" height="20" align="middle" /> <strong>Hermes Agent</strong></a>
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
