@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Iliyamo Mohammadi
+# 👋 Hey, I'm Iliya Mohammadi
 
 💻 Interested in Software Development, IT Infrastructure & AI  
 🛠️ Working in IT Support and System Administration  
@@ -70,7 +70,7 @@ A Go REST API for managing cinemas, halls, screenings, seat availability, tempor
 ## 🤖 AI & Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-<a href="https://hermes-agent.nousresearch.com/"><img src="https://hermes-agent.nousresearch.com/favicon.ico" alt="Hermes Agent" width="20" height="20" align="middle" /> <strong>Hermes Agent</strong></a>
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C5CE7?style=for-the-badge)
 ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
